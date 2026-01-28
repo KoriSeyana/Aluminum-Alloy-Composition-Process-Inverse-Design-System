@@ -1,12 +1,12 @@
-AlloyDesign-AI: Aluminum Alloy Composition & Process Inverse Design System
+AlloyDesign-AL: Aluminum Alloy Composition & Process Inverse Design System
 
-AlloyDesign-AI: 铝合金成分与工艺逆向设计系统
+AlloyDesign-AL: 铝合金成分与工艺逆向设计系统
 
 🌟 Project Overview / 项目简介
 
-AlloyDesign-AI is an integrated framework based on PyTorch for the forward property prediction and inverse design of aluminum alloys. The system bridges the gap between material composition/processing and mechanical performance (Yield Strength, Tensile Strength, and Elongation). It features a gradient-based optimization engine for "Inverse Engineering" and SHAP for model interpretability.
+AlloyDesign-AL is an integrated framework based on PyTorch for the forward property prediction and inverse design of aluminum alloys. The system bridges the gap between material composition/processing and mechanical performance (Yield Strength, Tensile Strength, and Elongation). It features a gradient-based optimization engine for "Inverse Engineering" and SHAP for model interpretability.
 
-AlloyDesign-AI 是一个基于 PyTorch 的集成框架，用于铝合金的正向性能预测与逆向设计。该系统建立了材料成分/工艺与力学性能（屈服强度、抗拉强度和延伸率）之间的桥梁。其特色在于采用了基于梯度的优化引擎实现“逆向工程”，并集成 SHAP 分析提供模型的可解释性。
+AlloyDesign-AL 是一个基于 PyTorch 的集成框架，用于铝合金的正向性能预测与逆向设计。该系统建立了材料成分/工艺与力学性能（屈服强度、抗拉强度和延伸率）之间的桥梁。其特色在于采用了基于梯度的优化引擎实现“逆向工程”，并集成 SHAP 分析提供模型的可解释性。
 
 🚀 Key Features / 核心功能
 
